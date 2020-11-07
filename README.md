@@ -31,7 +31,7 @@ Bài tập gồm 4 trang web index.html, khainiem.html, dacdiem.html, loiich.htm
 </html>
 ```
 # Kết quả
-![Trang chủ](/Image/index.png)
+![](/Image/index.png)
 
 # Mã nguồn
 ```html
