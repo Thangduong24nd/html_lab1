@@ -31,7 +31,7 @@ Bài tập gồm 4 trang web index.html, khainiem.html, dacdiem.html, loiich.htm
 </html>
 ```
 # Kết quả
-![Trang chủ](/Image/index.png)
+![](/image/index.png)
 
 # Mã nguồn
 ```html
@@ -68,7 +68,7 @@ Bài tập gồm 4 trang web index.html, khainiem.html, dacdiem.html, loiich.htm
 </html>
 ```
 # Kết quả
-![Khái niệm](/Image/khainiemw.png)
+![](/image/khainiemw.png)
 
 # Mã nguồn
 ```html
@@ -97,7 +97,7 @@ Bài tập gồm 4 trang web index.html, khainiem.html, dacdiem.html, loiich.htm
 </html>
 ```
 # Kết quả
-![Đặc điểm](/Image/dacdiemw.png)
+![](/image/dacdiemw.png)
 # Mã nguồn
 ```html
 <!DOCTYPE html>
@@ -119,4 +119,4 @@ Bài tập gồm 4 trang web index.html, khainiem.html, dacdiem.html, loiich.htm
 </html>
 ```
 # Kết quả
-![Lợi ích](/Image/loiichw.png)
+![](/image/loiichw.png)
